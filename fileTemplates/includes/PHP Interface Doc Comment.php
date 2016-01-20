@@ -1,3 +1,6 @@
 /**
- * Interface ${NAME}
+ * ${NAME}
+ * 
+ * @author ${USER}
+ * @version 1.0
  */
