@@ -1,10 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="plus [src]" />
-    <option name="defaultScopeName" value="plus [src]" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="plus [src]" />
+    <option name="customScope" value="Directory 'D:\__FILES__\MasterSoft Sistemas\Projetos\iZap\Git\plus\plus\modulos\ecom\Model'" />
+    <option name="defaultScopeName" value="Directory 'D:\__FILES__\MasterSoft Sistemas\Projetos\iZap\Git\plus\plus\modulos\ecom\Model'" />
+    <option name="SEARCH_SCOPE" value="Directory 'D:\__FILES__\MasterSoft Sistemas\Projetos\iZap\Git\plus\plus\modulos\ecom\Model'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
