@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory 'D:\__FILES__\MasterSoft Sistemas\Projetos\iZap\Git\plus\plus\modulos\ecom\Model'" />
-    <option name="defaultScopeName" value="Directory 'D:\__FILES__\MasterSoft Sistemas\Projetos\iZap\Git\plus\plus\modulos\ecom\Model'" />
-    <option name="SEARCH_SCOPE" value="Directory 'D:\__FILES__\MasterSoft Sistemas\Projetos\iZap\Git\plus\plus\modulos\ecom\Model'" />
+    <option name="customScope" value="Changed Files" />
+    <option name="defaultScopeName" value="Changed Files" />
+    <option name="SEARCH_SCOPE" value="Changed Files" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
