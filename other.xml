@@ -7,14 +7,42 @@
             <id />
           </State>
           <State>
+            <id>Code style issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Control FlowPHP</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>GeneralPHP</id>
+          </State>
+          <State>
+            <id>JSON</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
             <id>PHP</id>
           </State>
-        </expanded-state>
-        <selected-state>
           <State>
-            <id>PhpCSValidationInspection</id>
+            <id>Potentially confusing code constructsJavaScript</id>
           </State>
-        </selected-state>
+          <State>
+            <id>Probable bugsPHP</id>
+          </State>
+          <State>
+            <id>Type compatibilityPHP</id>
+          </State>
+          <State>
+            <id>TypeScript</id>
+          </State>
+        </expanded-state>
       </profile-state>
     </entry>
   </component>
