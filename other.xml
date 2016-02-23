@@ -7,6 +7,9 @@
             <id />
           </State>
           <State>
+            <id>Code StylePHP</id>
+          </State>
+          <State>
             <id>Code style issuesJavaScript</id>
           </State>
           <State>
@@ -34,6 +37,9 @@
             <id>Potentially confusing code constructsJavaScript</id>
           </State>
           <State>
+            <id>Probable bugsJavaScript</id>
+          </State>
+          <State>
             <id>Probable bugsPHP</id>
           </State>
           <State>
@@ -43,6 +49,11 @@
             <id>TypeScript</id>
           </State>
         </expanded-state>
+        <selected-state>
+          <State>
+            <id>Blade files</id>
+          </State>
+        </selected-state>
       </profile-state>
     </entry>
   </component>
