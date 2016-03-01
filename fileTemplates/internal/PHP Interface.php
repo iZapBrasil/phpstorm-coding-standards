@@ -5,7 +5,6 @@
 namespace ${NAMESPACE};
 
 #end
-
 /**
  * ${NAME}
  * 
