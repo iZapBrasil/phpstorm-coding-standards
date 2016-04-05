@@ -5,6 +5,7 @@
       <mapping ext="plus1" type="PLAIN_TEXT" />
       <removed_mapping ext="rb" type="PLAIN_TEXT" />
       <removed_mapping ext="cgi" type="PLAIN_TEXT" />
+      <mapping ext="config" type="SmartyConfig" />
       <mapping pattern="*.cnf.erb" type="textmate" />
       <mapping pattern="Gemfile" type="textmate" />
       <mapping pattern="rbx" type="textmate" />
