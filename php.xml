@@ -7,16 +7,16 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="vagrant://D:/__FILES__/MasterSoft Sistemas/Projetos/iZap/Git/plus/plus-vm/usr/bin/php" id="76bebeca-35ab-4f19-b6f5-1115274ef910" name="Remote PHP 5.5" debugger_id="php.debugger.XDebug">
-        <remote_data VAGRANT_FOLDER="D:/__FILES__/MasterSoft Sistemas/Projetos/iZap/Git/plus/plus-vm" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+      <interpreter home="ssh://vagrant@127.0.0.1:2222/usr/bin/php" id="76bebeca-35ab-4f19-b6f5-1115274ef910" name="Remote PHP 5.5" debugger_id="php.debugger.XDebug">
+        <remote_data HOST="127.0.0.1" PORT="2222" ANONYMOUS="false" USERNAME="vagrant" PASSWORD="dfdcdfcbdfcddfd8dfcbdfc4dfde" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="Remote PHP 5.5">
-        <phpinfo binary_type="PHP" php_cli="/usr/bin/php5" path_separator=":" remote_host="10.0.2.2 62434 22" version="5.5.9-1ubuntu4.11">
-          <additional_php_ini>/etc/php5/cli/conf.d/05-opcache.ini, /etc/php5/cli/conf.d/10-pdo.ini, /etc/php5/cli/conf.d/20-curl.ini, /etc/php5/cli/conf.d/20-gd.ini, /etc/php5/cli/conf.d/20-imagick.ini, /etc/php5/cli/conf.d/20-intl.ini, /etc/php5/cli/conf.d/20-json.ini, /etc/php5/cli/conf.d/20-ldap.ini, /etc/php5/cli/conf.d/20-mcrypt.ini, /etc/php5/cli/conf.d/20-memcached.ini, /etc/php5/cli/conf.d/20-mysql.ini, /etc/php5/cli/conf.d/20-mysqli.ini, /etc/php5/cli/conf.d/20-pdo_mysql.ini, /etc/php5/cli/conf.d/20-readline.ini, /etc/php5/cli/conf.d/20-sass.ini, /etc/php5/cli/conf.d/20-xdebug.ini, /etc/php5/cli/conf.d/90-plus.ini</additional_php_ini>
+        <phpinfo binary_type="PHP" php_cli="/usr/bin/php5" path_separator=":" remote_host="10.0.2.2 65008 22" version="5.5.9-1ubuntu4.14">
+          <additional_php_ini>/etc/php5/cli/conf.d/05-opcache.ini, /etc/php5/cli/conf.d/10-pdo.ini, /etc/php5/cli/conf.d/20-curl.ini, /etc/php5/cli/conf.d/20-gd.ini, /etc/php5/cli/conf.d/20-imagick.ini, /etc/php5/cli/conf.d/20-intl.ini, /etc/php5/cli/conf.d/20-json.ini, /etc/php5/cli/conf.d/20-ldap.ini, /etc/php5/cli/conf.d/20-memcached.ini, /etc/php5/cli/conf.d/20-mysql.ini, /etc/php5/cli/conf.d/20-mysqli.ini, /etc/php5/cli/conf.d/20-pdo_mysql.ini, /etc/php5/cli/conf.d/20-readline.ini, /etc/php5/cli/conf.d/20-sass.ini, /etc/php5/cli/conf.d/20-xdebug.ini, /etc/php5/cli/conf.d/izap.ini, /etc/php5/cli/conf.d/mcrypt.ini</additional_php_ini>
           <configuration_file>/etc/php5/cli/php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="SMTP" value="localhost" />
@@ -44,7 +44,7 @@
             <configuration_option name="date.default_longitude" value="35.2333" />
             <configuration_option name="date.sunrise_zenith" value="90.583333" />
             <configuration_option name="date.sunset_zenith" value="90.583333" />
-            <configuration_option name="date.timezone" value="" />
+            <configuration_option name="date.timezone" value="America/Sao_Paulo" />
             <configuration_option name="dba.default_handler" value="flatfile" />
             <configuration_option name="default_charset" value="utf-8" />
             <configuration_option name="default_mimetype" value="text/html" />
@@ -272,7 +272,7 @@
             <configuration_option name="xdebug.profiler_aggregate" value="0" />
             <configuration_option name="xdebug.profiler_append" value="0" />
             <configuration_option name="xdebug.profiler_enable" value="0" />
-            <configuration_option name="xdebug.profiler_enable_trigger" value="1" />
+            <configuration_option name="xdebug.profiler_enable_trigger" value="0" />
             <configuration_option name="xdebug.profiler_output_dir" value="/tmp" />
             <configuration_option name="xdebug.profiler_output_name" value="cachegrind.out.%p" />
             <configuration_option name="xdebug.remote_autostart" value="0" />
