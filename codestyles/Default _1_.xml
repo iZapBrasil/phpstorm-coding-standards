@@ -13,7 +13,7 @@
   </option>
   <option name="LINE_SEPARATOR" value="&#10;" />
   <MultiMarkdownCodeStyleSettings>
-    <option name="RIGHT_MARGIN" value="72" />
+    <option name="RIGHT_MARGIN" value="-1" />
   </MultiMarkdownCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="ALIGN_PHPDOC_PARAM_NAMES" value="true" />
