@@ -1,11 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Directory 'D:\__FILES__\MasterSoft Sistemas\Projetos\iZap\Workspace\repositories\plus\plus-legacy\modulos'" />
     <option name="defaultScopeName" value="Directory 'D:\__FILES__\MasterSoft Sistemas\Projetos\iZap\Workspace\repositories\plus\plus-legacy\modulos'" />
-    <option name="regularExpressions" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Directory 'D:\__FILES__\MasterSoft Sistemas\Projetos\iZap\Workspace\repositories\plus\plus-legacy\modulos'" />
     <recentFileMasks>
       <mask>*.properties</mask>
