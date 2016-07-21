@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Directory 'D:\__FILES__\MasterSoft Sistemas\Projetos\iZap\Workspace\repositories\plus\plus\modulos\quiz'" />
     <option name="defaultScopeName" value="Directory 'D:\__FILES__\MasterSoft Sistemas\Projetos\iZap\Workspace\repositories\plus\plus\modulos\quiz'" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Directory 'D:\__FILES__\MasterSoft Sistemas\Projetos\iZap\Workspace\repositories\plus\plus\modulos\quiz'" />
     <recentFileMasks>
       <mask>*.properties</mask>
