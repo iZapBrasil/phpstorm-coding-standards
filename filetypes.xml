@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="16">
+  <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="normalize_school_data_in_new_tables" type="PLAIN_TEXT" />
       <mapping pattern="plus_htpasswd" type="PLAIN_TEXT" />
@@ -20,10 +20,10 @@
       <mapping pattern="Gemfile" type="textmate" />
       <mapping pattern="erb" type="textmate" />
       <mapping pattern="cgi" type="textmate" />
+      <mapping pattern="fcgi" type="textmate" />
       <mapping pattern="Rantfile" type="textmate" />
       <mapping pattern="capfile" type="textmate" />
       <mapping pattern="ru" type="textmate" />
-      <mapping pattern="fcgi" type="textmate" />
       <mapping pattern="rhtml" type="textmate" />
       <mapping pattern="rb" type="textmate" />
       <mapping pattern="html.erb" type="textmate" />
