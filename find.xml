@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '[conector-w3erp] - ...'" />
-    <option name="defaultScopeName" value="Directory '[conector-w3erp] - ...'" />
+    <option name="customScope" value="Project 'plus-legacy'" />
+    <option name="defaultScopeName" value="Project 'plus-legacy'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '[conector-w3erp] - ...'" />
+    <option name="SEARCH_SCOPE" value="Project 'plus-legacy'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
