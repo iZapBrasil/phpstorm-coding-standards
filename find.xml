@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '[iZap] - ...\plus\plus\modulos\realestate'" />
-    <option name="defaultScopeName" value="Directory '[iZap] - ...\plus\plus\modulos\realestate'" />
-    <option name="SEARCH_SCOPE" value="Directory '[iZap] - ...\plus\plus\modulos\realestate'" />
+    <option name="customScope" value="Project 'plus-legacy'" />
+    <option name="defaultScopeName" value="Project 'plus-legacy'" />
+    <option name="SEARCH_SCOPE" value="Project 'plus-legacy'" />
     <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.properties</mask>
