@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="plus [pages]" />
-    <option name="defaultScopeName" value="plus [pages]" />
-    <option name="SEARCH_SCOPE" value="plus [pages]" />
+    <option name="customScope" value="Changed Files" />
+    <option name="defaultScopeName" value="Changed Files" />
+    <option name="SEARCH_SCOPE" value="Changed Files" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
