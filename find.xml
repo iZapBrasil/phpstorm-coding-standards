@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'plus-legacy'" />
-    <option name="defaultScopeName" value="Project 'plus-legacy'" />
-    <option name="SEARCH_SCOPE" value="Project 'plus-legacy'" />
+    <option name="customScope" value="plus [pages]" />
+    <option name="defaultScopeName" value="plus [pages]" />
+    <option name="SEARCH_SCOPE" value="plus [pages]" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
