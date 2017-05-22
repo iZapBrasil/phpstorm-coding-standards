@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Changed Files" />
-    <option name="defaultScopeName" value="Changed Files" />
-    <option name="SEARCH_SCOPE" value="Changed Files" />
+    <option name="customScope" value="Directory '[iZap] - ...\plus\plus'" />
+    <option name="defaultScopeName" value="Directory '[iZap] - ...\plus\plus'" />
+    <option name="SEARCH_SCOPE" value="Directory '[iZap] - ...\plus\plus'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
