@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="normalize_school_data_in_new_tables" type="PLAIN_TEXT" />
       <mapping pattern="variables" type="PLAIN_TEXT" />
+      <mapping pattern="Seu Valdeci" type="PLAIN_TEXT" />
       <mapping pattern="temp" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="plus_htpasswd" type="PLAIN_TEXT" />
