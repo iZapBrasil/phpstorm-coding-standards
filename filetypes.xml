@@ -9,6 +9,7 @@
       <mapping pattern="plus_htpasswd" type="PLAIN_TEXT" />
       <mapping ext="plusconfig" type="PLAIN_TEXT" />
       <mapping ext="dev" type="PLAIN_TEXT" />
+      <mapping ext="readme" type="PLAIN_TEXT" />
       <mapping ext="page" type="PLAIN_TEXT" />
       <mapping ext="plus1" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
