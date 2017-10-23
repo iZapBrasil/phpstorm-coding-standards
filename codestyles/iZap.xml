@@ -1,4 +1,4 @@
-<code_scheme name="Default (1)">
+<code_scheme name="iZap">
   <option name="OTHER_INDENT_OPTIONS">
     <value>
       <option name="INDENT_SIZE" value="2" />
@@ -12,9 +12,6 @@
     </value>
   </option>
   <option name="LINE_SEPARATOR" value="&#10;" />
-  <MarkdownNavigatorCodeStyleSettings>
-    <option name="RIGHT_MARGIN" value="-1" />
-  </MarkdownNavigatorCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="ALIGN_PHPDOC_PARAM_NAMES" value="true" />
     <option name="ALIGN_PHPDOC_COMMENTS" value="true" />
