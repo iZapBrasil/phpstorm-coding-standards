@@ -1,13 +1,14 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="normalize_school_data_in_new_tables" type="PLAIN_TEXT" />
-      <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
-      <mapping pattern="variables" type="PLAIN_TEXT" />
-      <mapping pattern="Seu Valdeci" type="PLAIN_TEXT" />
-      <mapping pattern="plus_htpasswd" type="PLAIN_TEXT" />
       <mapping pattern="temp" type="PLAIN_TEXT" />
+      <mapping pattern="normalize_school_data_in_new_tables" type="PLAIN_TEXT" />
+      <mapping pattern="Seu Valdeci" type="PLAIN_TEXT" />
+      <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="variables" type="PLAIN_TEXT" />
+      <mapping pattern="plus_htpasswd" type="PLAIN_TEXT" />
+      <mapping ext="3" type="PLAIN_TEXT" />
       <mapping ext="plusconfig" type="PLAIN_TEXT" />
       <mapping ext="dev" type="PLAIN_TEXT" />
       <mapping ext="readme" type="PLAIN_TEXT" />
@@ -17,51 +18,12 @@
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="5" type="PLAIN_TEXT" />
       <mapping ext="4" type="PLAIN_TEXT" />
-      <mapping ext="3" type="PLAIN_TEXT" />
       <mapping ext="2" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="legacy" type="PLAIN_TEXT" />
-      <removed_mapping ext="rb" type="PLAIN_TEXT" />
       <removed_mapping ext="cgi" type="PLAIN_TEXT" />
+      <removed_mapping ext="rb" type="PLAIN_TEXT" />
       <mapping ext="config" type="SmartyConfig" />
-      <mapping pattern="*.cnf.erb" type="textmate" />
-      <mapping pattern="rake" type="textmate" />
-      <mapping pattern="irbrc" type="textmate" />
-      <mapping pattern="Rakefile" type="textmate" />
-      <mapping pattern="Berksfile.lock" type="textmate" />
-      <mapping pattern="html.erb" type="textmate" />
-      <mapping pattern="Gemfile" type="textmate" />
-      <mapping pattern="erb" type="textmate" />
-      <mapping pattern="cgi" type="textmate" />
-      <mapping pattern="fcgi" type="textmate" />
-      <mapping pattern="Rantfile" type="textmate" />
-      <mapping pattern="capfile" type="textmate" />
-      <mapping pattern="rjs" type="textmate" />
-      <mapping pattern="ru" type="textmate" />
-      <mapping pattern="rhtml" type="textmate" />
-      <mapping pattern="rb" type="textmate" />
-      <mapping pattern="prawn" type="textmate" />
-      <mapping pattern="gemspec" type="textmate" />
-      <mapping pattern="Thorfile" type="textmate" />
-      <mapping pattern="Vagrantfile" type="textmate" />
-      <mapping pattern="Appraisals" type="textmate" />
-      <mapping pattern="Guardfile" type="textmate" />
-      <mapping pattern="rbx" type="textmate" />
-      <mapping pattern="Berksfile" type="textmate" />
-      <mapping ext="rhtml" type="textmate" />
-      <mapping ext="rjs" type="textmate" />
-      <mapping ext="rb" type="textmate" />
-      <mapping ext="prawn" type="textmate" />
-      <mapping ext="cgi" type="textmate" />
-      <mapping ext="rake" type="textmate" />
-      <mapping ext="rbx" type="textmate" />
-      <mapping ext="ru" type="textmate" />
-      <mapping ext="html.erb" type="textmate" />
-      <mapping ext="erb" type="textmate" />
-      <mapping ext="irbrc" type="textmate" />
-      <mapping ext="capfile" type="textmate" />
-      <mapping ext="fcgi" type="textmate" />
-      <mapping ext="gemspec" type="textmate" />
     </extensionMap>
   </component>
 </application>
