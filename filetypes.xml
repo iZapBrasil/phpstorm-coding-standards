@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="gitignore_global.txt" type="Git file" />
       <mapping pattern="normalize_school_data_in_new_tables" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern="variables" type="PLAIN_TEXT" />
@@ -10,10 +11,10 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="3" type="PLAIN_TEXT" />
       <mapping ext="plusconfig" type="PLAIN_TEXT" />
+      <mapping ext="bkp" type="PLAIN_TEXT" />
       <mapping ext="dev" type="PLAIN_TEXT" />
       <mapping ext="readme" type="PLAIN_TEXT" />
       <mapping ext="page" type="PLAIN_TEXT" />
-      <mapping ext="bkp" type="PLAIN_TEXT" />
       <mapping ext="plus1" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="5" type="PLAIN_TEXT" />
