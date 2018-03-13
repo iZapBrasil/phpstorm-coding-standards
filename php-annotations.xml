@@ -9,6 +9,7 @@
         <UseAliasOption>
           <option name="alias" value="ORM" />
           <option name="className" value="Doctrine\ORM\Mapping" />
+          <option name="enabled" value="false" />
         </UseAliasOption>
         <UseAliasOption>
           <option name="alias" value="DI" />
