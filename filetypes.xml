@@ -10,6 +10,7 @@
       <mapping pattern="temp" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="3" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="plusconfig" type="PLAIN_TEXT" />
       <mapping ext="bkp" type="PLAIN_TEXT" />
