@@ -24,6 +24,8 @@
       <mapping ext="2" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="legacy" type="PLAIN_TEXT" />
+      <removed_mapping ext="rb" type="PLAIN_TEXT" />
+      <removed_mapping ext="cgi" type="PLAIN_TEXT" />
       <mapping ext="config" type="SmartyConfig" />
       <mapping ext="xlf" type="XML" />
     </extensionMap>
